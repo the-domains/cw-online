@@ -1,0 +1,28 @@
+name: CW Online
+favicon: null
+layout_spectrum: 0.9389483982231468
+typography_spectrum: 0.28299224469810724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.32897405745461583
+  lightness: 0.2423527294304222
+  saturation: 0.3721510414034128
+  rhythmicContrast: 0.30251290183514357
+purpose: []
